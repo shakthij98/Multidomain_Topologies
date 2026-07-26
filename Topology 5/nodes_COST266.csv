@@ -1,0 +1,89 @@
+id,Latitude,Longitude,name,Country,domain,border,node_prob
+1,52.39,9.8,Hannover,Germany,1,FALSE,1
+2,50.1,8.67,Frankfurt,Germany,1,TRUE,1
+3,53.55,10.02,Hamburg,Germany,1,TRUE,1
+4,53.6,7.21,Norden,Germany,1,FALSE,1
+5,53.08,8.8,Bremen,Germany,1,FALSE,1
+6,52.52,13.4,Berlin,Germany,1,FALSE,1
+7,48.13,11.57,Munich,Germany,1,TRUE,1
+8,48.4,9.99,Ulm,Germany,1,FALSE,1
+9,49.45,11.08,Nuernberg,Germany,1,FALSE,1
+10,48.73,9.12,Stuttgart,Germany,1,FALSE,1
+11,49.01,8.41,Karlsruhe,Germany,1,FALSE,1
+12,49.49,8.49,Mannheim,Germany,1,FALSE,1
+13,51.44,7,Essen,Germany,1,FALSE,1
+14,51.51,7.48,Dortmund,Germany,1,FALSE,1
+15,51.23,6.78,Dusseldorf,Germany,1,TRUE,1
+16,50.92,7.01,Koeln,Germany,1,FALSE,1
+17,51.34,12.38,Leipzig,Germany,1,FALSE,1
+18,50.95,1.86,Calais,France,2,FALSE,1
+19,47.9,1.91,Orleans,France,2,FALSE,1
+20,48.85,2.35,Paris,France,2,TRUE,1
+21,48.96,4.36,Chalons-en-Champagne,France,2,FALSE,1
+22,50.29,2.77,Arras,France,2,FALSE,1
+23,48.77,5.16,Bar-le-Duc,France,2,FALSE,1
+24,48.58,7.75,Strasbourg,France,2,TRUE,1
+25,48.39,-4.49,Brest,France,2,FALSE,1
+26,47.75,-3.37,Lorient,France,2,FALSE,1
+27,45.83,1.26,Limoges,France,2,FALSE,1
+28,46.58,-0.34,Poitiers,France,2,FALSE,1
+29,43.49,-1.47,Bayonne,France,2,FALSE,1
+30,44.2,0.62,Agen,France,2,FALSE,1
+31,45.19,5.72,Grenoble,France,2,FALSE,1
+32,47.39,0.69,Tours,France,2,FALSE,1
+33,44.85,-0.57,Bordeaux,France,2,TRUE,1
+34,45.73,4.83,Lyon,France,2,TRUE,1
+35,43.3,5.37,Marseille,France,2,TRUE,1
+36,45.47,9.17,Milan,Italy,3,TRUE,1
+37,45.079167,7.676111,Turin,Italy,3,FALSE,1
+38,44.407186,8.933983,Genoa,Italy,3,FALSE,1
+39,44.493889,11.342778,Bologna,Italy,3,FALSE,1
+40,43.771389,11.254167,Florence,Italy,3,FALSE,1
+41,41.88,12.5,Rome,Italy,3,TRUE,1
+42,40.833333,14.25,Naples,Italy,3,FALSE,1
+43,38.12,13.35,Palermo,Italy,3,FALSE,1
+44,52.367,4.904,Amsterdam,Netherlands,4,TRUE,1
+45,52.012,4.357,Delft,Netherlands,4,FALSE,1
+46,52.018,4.708,Gouda,Netherlands,4,FALSE,1
+47,52.16,4.494,Leiden,Netherlands,4,FALSE,1
+48,51.925,4.479,Rotterdam,Netherlands,4,FALSE,1
+49,52.091,5.122,Utrecht,Netherlands,4,FALSE,1
+50,42.82,-1.64,Pamplona,Spain,5,FALSE,1
+51,42.47,-2.45,Logrono,Spain,5,FALSE,1
+52,43,-2.75,Murguia,Spain,5,FALSE,1
+53,39.47,-0.38,Valencia,Spain,5,FALSE,1
+54,41.66,-0.88,Zaragoza,Spain,5,FALSE,1
+55,41.39,2.16,Barcelona,Spain,5,TRUE,1
+56,42.88,-8.55,Santiago de Compostela,Spain,5,FALSE,1
+57,37.38,-5.99,Sevilla,Spain,5,TRUE,1
+58,40.42,-3.7,Madrid,Spain,5,TRUE,1
+59,41.65,-4.72,Valladolid,Spain,5,FALSE,1
+60,46.52,6.634,Lausanne (EPFL),Switzerland,6,FALSE,1
+61,46.948,7.448,Bern,Switzerland,6,FALSE,1
+62,47.377,8.541,Zurich (ETH),Switzerland,6,TRUE,1
+63,46.028,8.923,Manno,Switzerland,6,FALSE,1
+64,46.99,6.929,Neuchatel,Switzerland,6,FALSE,1
+65,46.205,6.142,Geneva,Switzerland,6,FALSE,1
+66,47.56,7.589,Basel,Switzerland,6,FALSE,1
+67,50.83,4.35,Brussels,Belgium,7,TRUE,1
+68,51.22,4.4,Antwerpen,Belgium,7,FALSE,1
+69,51.054,3.717,Gent,Belgium,7,FALSE,1
+70,50.633,5.567,Liege,Belgium,7,FALSE,1
+71,50.45,3.95,Mons,Belgium,7,FALSE,1
+72,51.5074456,-0.1277653,London,United Kingdom,8,TRUE,1
+73,52.4796992,-1.9026911,Birmingham,United Kingdom,8,FALSE,1
+74,55.9533456,-3.1883749,Edinburgh,United Kingdom,8,FALSE,1
+75,53.4794892,-2.2451148,Manchester,United Kingdom,8,FALSE,1
+76,51.4564242,-0.9700664,Reading,United Kingdom,8,FALSE,1
+77,52.0417,-0.7558,Milton Keynes,United Kingdom,8,FALSE,1
+78,51.5566,0.0763,Ilford,United Kingdom,8,FALSE,1
+79,51.5138,-0.3028,Ealing,United Kingdom,8,FALSE,1
+80,55.8642,-4.2518,Glasgow,United Kingdom,8,TRUE,1
+81,40.640496,-8.6537841,Aveiro,Portugal,9,FALSE,1
+82,39.4071857,-9.1346004,Caldas da Rainha,Portugal,9,FALSE,1
+83,40.2111931,-8.4294632,Coimbra,Portugal,9,FALSE,1
+84,39.7437902,-8.8071119,Leiria,Portugal,9,FALSE,1
+85,38.7077507,-9.1365919,Lisboa,Portugal,9,TRUE,1
+86,41.1494512,-8.6107884,Porto,Portugal,9,FALSE,1
+87,39.2363637,-8.6867081,Santarem,Portugal,9,FALSE,1
+88,40.9020813,-8.4896358,Sao Joao da Madeira,Portugal,9,FALSE,1

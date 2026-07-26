@@ -1,0 +1,59 @@
+id,Latitude,Longitude,name,Country,domain,border,node_prob
+1,52.39,9.8,Hannover,Germany,1,FALSE,1
+2,50.1,8.67,Frankfurt,Germany,1,TRUE,1
+3,53.55,10.02,Hamburg,Germany,1,TRUE,1
+4,53.6,7.21,Norden,Germany,1,TRUE,1
+5,53.08,8.8,Bremen,Germany,1,FALSE,1
+6,52.52,13.4,Berlin,Germany,1,TRUE,1
+7,48.13,11.57,Munich,Germany,1,FALSE,1
+8,48.4,9.99,Ulm,Germany,1,FALSE,1
+9,49.45,11.08,Nuernberg,Germany,1,FALSE,1
+10,48.73,9.12,Stuttgart,Germany,1,FALSE,1
+11,49.01,8.41,Karlsruhe,Germany,1,FALSE,1
+12,49.49,8.49,Mannheim,Germany,1,FALSE,1
+13,51.44,7,Essen,Germany,1,FALSE,1
+14,51.51,7.48,Dortmund,Germany,1,FALSE,1
+15,51.23,6.78,Dusseldorf,Germany,1,TRUE,1
+16,50.92,7.01,Koeln,Germany,1,FALSE,1
+17,51.34,12.38,Leipzig,Germany,1,FALSE,1
+18,52.367,4.904,Amsterdam,Netherlands,2,TRUE,1
+19,51.985,5.899,Arnhem,Netherlands,2,FALSE,1
+20,52.07,4.3,Den Haag,Netherlands,2,FALSE,1
+21,51.441,5.47,Eindhoven,Netherlands,2,TRUE,1
+22,52.222,6.894,Enschede,Netherlands,2,FALSE,1
+23,53.219,6.567,Groningen,Netherlands,2,TRUE,1
+24,50.851,5.691,Maastricht,Netherlands,2,TRUE,1
+25,51.925,4.479,Rotterdam,Netherlands,2,FALSE,1
+26,52.091,5.122,Utrecht,Netherlands,2,FALSE,1
+27,52.517,6.09,Zwolle,Netherlands,2,FALSE,1
+28,52.4796992,-1.9026911,Birmingham,United Kingdom,3,FALSE,1
+29,51.4538022,-2.5972985,Bristol,United Kingdom,3,FALSE,1
+30,51.4816546,-3.1791934,Cardiff,United Kingdom,3,FALSE,1
+31,55.9533456,-3.1883749,Edinburgh,United Kingdom,3,FALSE,1
+32,55.861155,-4.2501687,Glasgow,United Kingdom,3,TRUE,1
+33,53.7974185,-1.5437941,Leeds,United Kingdom,3,FALSE,1
+34,51.5074456,-0.1277653,London,United Kingdom,3,TRUE,1
+35,53.4794892,-2.2451148,Manchester,United Kingdom,3,FALSE,1
+36,54.9738474,-1.6131572,Newcastle,United Kingdom,3,FALSE,1
+37,52.2053,0.1218,Cambridge,United Kingdom,3,FALSE,1
+38,59.9139,10.7522,Oslo,Norway,4,TRUE,1
+39,60.3913,5.3221,Bergen,Norway,4,FALSE,1
+40,58.97,5.7331,Stavanger,Norway,4,FALSE,1
+41,58.1467,7.9956,Kristiansand,Norway,4,FALSE,1
+42,59.7439,10.2045,Drammen,Norway,4,FALSE,1
+43,63.4305,10.3951,Trondheim,Norway,4,FALSE,1
+44,62.4722,6.1549,Alesund,Norway,4,FALSE,1
+45,67.2804,14.4049,Bodo,Norway,4,FALSE,1
+46,68.4385,17.4273,Narvik,Norway,4,FALSE,1
+47,69.6492,18.9553,Tromso,Norway,4,FALSE,1
+48,55.67611,12.56833,Copenhagen,Denmark,5,TRUE,1
+49,56.15674,10.2107,Aarhus,Denmark,5,FALSE,1
+50,55.39594,10.38831,Odense,Denmark,5,FALSE,1
+51,57.05,9.93333,Aalborg,Denmark,5,FALSE,1
+52,55.47028,8.45187,Esbjerg,Denmark,5,TRUE,1
+53,55.7093,9.5357,Vejle,Denmark,5,FALSE,1
+54,56.4607,10.0364,Randers,Denmark,5,FALSE,1
+55,55.4904,9.47216,Kolding,Denmark,5,FALSE,1
+56,56.09,8.244,Ringkobing,Denmark,5,FALSE,1
+57,55.718,11.712,Holbaek,Denmark,5,FALSE,1
+58,56.136,8.975,Herning,Denmark,5,FALSE,1
