@@ -1,0 +1,48 @@
+node_id,cities,Latitude,Longitude,domain,manufacturer,border
+0_1,London,51.5074456,-0.1277653,1,2,True
+0_2,Birmingham,52.4796992,-1.9026911,1,0,False
+0_3,Edinburgh,55.9533456,-3.1883749,1,0,False
+0_4,Manchester,53.4794892,-2.2451148,1,2,True
+0_5,Reading,51.4564242,-0.9700664,1,1,False
+0_6,Milton Keynes,52.0417,-0.7558,1,0,False
+0_7,Ilford,51.5566,0.0763,1,0,False
+0_9,Glasgow,55.8642,-4.2518,1,0,False
+1_1,Novi Sad,45.25,19.84,2,2,True
+1_2,Belgrade,44.8,20.47,2,0,False
+1_3,Kragujevac,44.02,20.92,2,2,False
+1_4,Nis,43.32,21.9,2,2,False
+1_5,Krusevac,43.58,21.33,2,2,False
+1_6,Podgorica,42.44,19.26,2,0,True
+2_1,Brugge,51.21,3.225,3,2,True
+2_2,Gent1,51.054,3.717,3,1,False
+2_5,Antwerpen2,51.22,4.4,3,0,False
+2_6,Korthijk,50.829,3.265,3,0,False
+2_7,Mons,50.45,3.95,3,0,False
+2_8,Charleroi,50.411,4.445,3,0,False
+2_9,Louvain-la-Neuve,50.67,4.612,3,0,False
+2_13,Liege1,50.633,5.567,3,2,True
+2_20,Hasselt,50.931,5.338,3,2,False
+3_1,Odense,55.4,10.39,4,0,False
+3_2,Nyborg,55.31,10.79,4,2,True
+3_3,Vejle,55.71,9.54,4,0,False
+3_4,Kolding,55.49,9.47,4,2,False
+3_5,Holbaek,55.72,11.72,4,2,False
+3_6,Kongens Lyngby,55.77,12.5,4,2,False
+3_7,Slagelse,55.4,11.35,4,2,False
+3_8,Fuglebjerg,55.31,11.55,4,1,False
+3_9,Tarnby,55.63,12.6,4,0,False
+3_10,Herning,56.14,8.97,4,1,True
+3_13,Hobro,56.64,9.79,4,2,False
+3_15,Arhus,56.16,10.21,4,1,False
+4_2,Linz2,48.307,14.286,5,0,True
+4_3,Salzburg1,47.8,13.044,5,0,False
+4_4,Salzburg2,47.8,13.044,5,2,False
+4_5,Innsbruck1,47.26,11.394,5,1,False
+4_6,Innsbruck2,47.26,11.394,5,1,False
+4_7,Dornbirn,47.414,9.744,5,1,True
+4_8,Klagenfurt1,46.624,14.305,5,0,False
+4_9,Klagenfurt2,46.624,14.305,5,0,False
+4_12,Leoben,47.382,15.097,5,1,False
+4_14,St. Polten,48.204,15.623,5,0,False
+4_15,Krems,48.41,15.6,5,0,False
+4_16,Vienna1,48.209,16.373,5,1,True
